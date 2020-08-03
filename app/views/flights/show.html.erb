@@ -7,7 +7,16 @@
 
 <p>Airline: <%= @flight.airline.name %> </p>
 
-<p>Passengers on this flight:</p>
-<% @flight.passengers.each do |passenger| %>
-  <%= passenger.name %>
-<% end %>
+<section class = "adults">
+  <p>Adult Passengers on this flight: <%= @adults.count %></p>
+  <% @adults.each do |adult| %>
+    <%= adult.name %>
+  <% end %>
+</section>
+
+<section class = "minors">
+  <p>Underage Passengers on this flight: <%= @minors.count %></p>
+  <% @minors.each do |minor| %>
+    <%= minor.name %>
+  <% end %>
+</section>
