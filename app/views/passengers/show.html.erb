@@ -1,3 +1,9 @@
+<div>
+  <% if flash[:errors] %>
+    <%= flash[:errors] %>
+  <% end %>
+</div>
+
 <h1>Name: <%= @passenger.name %> </h1>
 
 <p>Flight Information: </p>
