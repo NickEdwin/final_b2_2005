@@ -206,6 +206,10 @@
         "lines": [
           1,
           null,
+          1,
+          null,
+          1,
+          null,
           null
         ]
       },
@@ -215,10 +219,65 @@
           null
         ]
       },
+      "/Users/nickedwin/turing/2module/final_b2_2005/spec/features/passengers/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/nickedwin/turing/2module/final_b2_2005/spec/models/airline_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
       "/Users/nickedwin/turing/2module/final_b2_2005/app/models/airline.rb": {
         "lines": [
           1,
           1,
+          null,
+          1,
+          null,
           null,
           null
         ]
@@ -229,8 +288,115 @@
           1,
           null
         ]
+      },
+      "/Users/nickedwin/turing/2module/final_b2_2005/spec/models/flight_passengers_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/nickedwin/turing/2module/final_b2_2005/app/models/flight_passenger.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/nickedwin/turing/2module/final_b2_2005/spec/models/flights_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/nickedwin/turing/2module/final_b2_2005/app/models/flight.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/nickedwin/turing/2module/final_b2_2005/spec/models/passenger_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/nickedwin/turing/2module/final_b2_2005/app/models/passenger.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/nickedwin/turing/2module/final_b2_2005/app/controllers/flights_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/nickedwin/turing/2module/final_b2_2005/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/nickedwin/turing/2module/final_b2_2005/app/controllers/passengers_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1596467680
+    "timestamp": 1596472942
   }
 }
